@@ -1,0 +1,38 @@
+
+body {
+    background-color: rgb(175, 224, 208);
+
+}
+/* div {
+    height: 200px;
+    width: 500px;
+    background-color: rgb(103, 114, 114);
+    margin: auto;
+    border-radius: 10px; */
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    text-transform: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.username {
+    font-size: 40px;
+    color: rgb(35, 112, 86);
+    border-radius: 30px;
+    text-align: center;
+    margin-bottom: 15px;
+    margin: auto;
+}
+.password {
+    font-size: 40px;
+    border-radius: 30px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+button{
+    font-size: 30px;
+    border-radius: 30px;
+    
+}
